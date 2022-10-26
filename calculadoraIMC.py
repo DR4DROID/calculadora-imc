@@ -18,6 +18,10 @@ if imc < 16:
     print("MAgreza Grave!")
 elif imc < 18.5:
     print("Magreza Leve!")
+if imc < 16:
+    print("MAgreza Grave!")
+elif imc < 18.5:
+    print("Magreza Leve!")
 elif imc < 25:
     print("Saudável!")
 elif imc < 30:
